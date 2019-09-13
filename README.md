@@ -1,7 +1,6 @@
 ## Topics
 Blueprints enables IT architects to define a repeatable set of ICT resources that implement and adhere to an organization's standards, patterns, and requirements
 ***
-***
 * Remote access with SSH
 * Remote access with HTTPS
 ***
